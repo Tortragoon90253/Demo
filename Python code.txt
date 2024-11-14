@@ -1,6 +1,3 @@
-name = input("ต่อ")
-print("สวัสดี", name, "ยินดีต้อนรับครับ")
-numbers = [1, 2, 3, 4]
 name = input("คุณชื่ออะไร? ")
 print("สวัสดี", name, "ยินดีต้อนรับ!")
 numbers = [1, 2, 3, 4, 5]
@@ -11,5 +8,4 @@ if num % 2 == 0:
     print(num, "เป็นเลขคู่")
 else:
     print(num, "เป็นเลขคี่")
-112233
-    print(num, "เป็นเลขคี่")
+Tony
