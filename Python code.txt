@@ -9,3 +9,4 @@ if num % 2 == 0:
 else:
     print(num, "เป็นเลขคี่")
 Tony
+ktdyc
